@@ -1,0 +1,11 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-nav > .active > a {
+    color: aqua;
+    background-color: red;    
+  }
+  .nav-item > a:hover {
+    color: aqua;
+  }
